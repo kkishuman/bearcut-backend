@@ -1,1 +1,11 @@
-
+.DS_Store
+*.db
+*.sqlite
+.env
+.env.local
+__pycache__/
+*.pyc
+venv/
+.venv/
+storage/
+logs/
